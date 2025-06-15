@@ -57,5 +57,5 @@ This project explores solar power generation data to evaluate inverter performan
 Srivalli Uppalapati 
 M.Sc in Computing & Technology | M.Tech in Power Electronics  
 Aspiring Data Analyst with experience in Python, SQL, and Tableau  
-🔗 https://www.linkedin.com/in/srivalli-uppalapati | 🔗 [GitHub](#)
+🔗 https://www.linkedin.com/in/srivalli-uppalapati | 🔗 
 
