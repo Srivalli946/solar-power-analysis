@@ -31,3 +31,6 @@ This project explores solar power generation data to evaluate inverter performan
 ---
 
 ## 📁 Files & Structure
+![Efficiency by source key](https://github.com/user-attachments/assets/1f7f4862-5223-48cc-845f-8c2fb50815d5)
+![Scatter_irradiation_vs_DC Power](https://github.com/user-attachments/assets/1cd3cd71-382c-40ce-a987-9605f60b6860)
+![Tableau dashboard](https://github.com/user-attachments/assets/4978b671-66ce-4259-a4b0-95b64b55f5ae)
