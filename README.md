@@ -34,3 +34,28 @@ This project explores solar power generation data to evaluate inverter performan
 ![Efficiency by source key](https://github.com/user-attachments/assets/1f7f4862-5223-48cc-845f-8c2fb50815d5)
 ![Scatter_irradiation_vs_DC Power](https://github.com/user-attachments/assets/1cd3cd71-382c-40ce-a987-9605f60b6860)
 ![Tableau dashboard](https://github.com/user-attachments/assets/4978b671-66ce-4259-a4b0-95b64b55f5ae)
+
+
+
+---
+
+## 🌐 Tableau Dashboard
+
+🔗 https://public.tableau.com/app/profile/srivalli.uppalapati/viz/SolarPowerOutputAnalysis/Dashboard1?publish=yes
+
+
+---
+
+## 🧠 Next Steps
+- Integrate more inverters or longer time periods
+- Perform fault detection or alert generation based on performance
+- Add predictive modeling to estimate future output
+
+---
+
+## 👤 About Me
+Srivalli Uppalapati 
+M.Sc in Computing & Technology | M.Tech in Power Electronics  
+Aspiring Data Analyst with experience in Python, SQL, and Tableau  
+🔗 https://www.linkedin.com/in/srivalli-uppalapati | 🔗 [GitHub](#)
+
